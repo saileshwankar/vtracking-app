@@ -2,7 +2,7 @@
 
 A real-time vehicle tracking system that integrates GPS, GSM, and sensor technology to monitor live location, speed, fuel usage, route history, and safety alerts. Built using Ionic for mobile, Node.js for backend, and microcontrollers for hardware integration, it’s designed for scalable deployment in fleet and personal vehicle management.
 
-![VTracking Demo Banner](https://via.placeholder.com/1000x400?text=VTracking+App+Banner)
+
 
 ---
 
