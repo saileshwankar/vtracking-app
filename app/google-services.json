@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179157417122",
+    "project_id": "vtrack-24a25",
+    "storage_bucket": "vtrack-24a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179157417122:android:bbdeccace433dd5c7e6bfb",
+        "android_client_info": {
+          "package_name": "com.example.vtrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179157417122-isvpq9vep11ob1ccgt1bmciaileek22e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDONvj0dGPgSqCuB2vxPIJWIyBHth6zP2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179157417122-isvpq9vep11ob1ccgt1bmciaileek22e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

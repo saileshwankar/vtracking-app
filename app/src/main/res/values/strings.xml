@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">VTrack</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+
+    <string name="i_don_t_have_an_account">I don\'t have an account</string>
+    <string name="note">Note: If you don\'t have \n an account contact to Company</string>
+    <string name="reports">Reports</string>
+    <string name="application_preference">Application Preference</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="help_and_privacy">Help and Privacy</string>
+    <string name="help_and_faq">Help and FAQ</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="logout">Logout</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="help1">1. User Manual: Our app comes with a detailed user manual that outlines how to use all of its features. You can find it in the app\'s settings menu.</string>
+    <string name="help2">2. Customer Support: If you have any specific questions or issues, you can contact our customer support team for assistance. You can find their contact information on our website.</string>
+    <string name="help3">If you\'re having trouble using our car tracking app, here are some resources that may help:</string>
+
+
+    <string name="faqQ1">Q1: How does the car tracking app work?</string>
+    <string name="faqA1">A: Our app uses GPS technology to track the location of your car. You can view your car\'s location in real-time on a map within the app. You can also set up alerts to notify you if your car leaves a specific area.</string>
+    <string name="faqQ2">Q2: Can multiple people track the same car?</string>
+    <string name="faqA2">A: Yes, as long as they have access to the app login credentials, they can track the car.</string>
+    <string name="faqQ3">Q3: Is the app compatible with all types of cars?</string>
+    <string name="faqA3">A: The app is compatible with any car that has a GPS device installed. Some older cars may not have this technology built-in, in which case the app may not work.</string>
+    <string name="faqQ4">Q4: Is the app secure?</string>
+    <string name="faqA4">A: Yes, we take the security of our app and our users\' data very seriously. We use advanced encryption technology to protect your information and ensure that only authorized users have access to the app.</string>
+
+    <string name="privH1">Introduction</string>
+    <string name="privP1">This privacy policy explains how we collect, use, and share personal information in connection with our car tracking mobile app ("the App"). The App is designed to help users track the location of their vehicles and monitor their driving behavior. Our company ("we", "us", or "our") is committed to protecting your privacy and complying with all applicable data protection laws. By using the App, you consent to our collection, use, and sharing of your personal information as described in this policy.</string>
+    <string name="privH2">Information We Collect</string>
+    <string name="privH21">We may collect and process the following types of personal information:</string>
+    <string name="privP2">1. Personal Information: When you sign up for the App, we may ask you to provide your name, email address, phone number, and other information necessary to create and manage your account.
+
+\n\n2. Location Information: The App collects information about the location of your vehicle and uses GPS technology to track its movement. We may also collect location data for statistical purposes, such as to analyze traffic patterns and improve the App\'s performance.
+
+\n\n3. Driving Behavior Information: The App collects information about your driving behavior, such as speed, acceleration, and braking. This information is used to calculate your driving score, which you can use to monitor and improve your driving habits.
+
+\n\n4. Technical Information: We may collect technical information about your device, such as your device type, operating system, and other technical details necessary for the App to function properly.</string>
+    <string name="privH3">Use of Information</string>
+    <string name="privP3">We may use the personal information we collect for the following purposes:
+
+\n\n1. To provide and improve the App: We use your personal information to create and manage your account, track the location of your vehicle, and calculate your driving score.
+
+\n\n2. To communicate with you: We may send you updates, alerts, and other communications related to the App or your account.
+
+\n\n3. To comply with legal obligations: We may use your personal information to comply with applicable laws, regulations, or legal requests.
+
+\n\n4. To conduct research and analytics: We may use your personal information to conduct research and analysis on usage patterns and other statistical data related to the App.</string>
+    <string name="privH4">Sharing of Information</string>
+    <string name="privP4">We may share your personal information with third parties in the following circumstances:
+
+\n\n1. Service Providers: We may share your personal information with service providers who assist us in providing and improving the App. These service providers are required to protect your personal information and use it only for the purposes for which we engage them.
+
+\n\n2. Legal Compliance: We may share your personal information to comply with applicable laws, regulations, or legal requests.
+
+\n\n3. Business Transfers: In the event of a merger, acquisition, or other corporate transaction involving our company, we may transfer your personal information to the new owner or operator of the App.</string>
+    <string name="privH5">Data Security</string>
+    <string name="privP5">We take appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing, accidental loss, destruction, or damage. However, please note that no method of transmission over the internet or electronic storage is 100% secure.</string>
+    <string name="privH6">Your Rights</string>
+    <string name="privP6">You have certain rights under applicable data protection laws, including the right to access, correct, delete, or restrict the processing of your personal information. If you have any questions or concerns about our use of your personal information, please contact us using the contact details provided below.</string>
+    <string name="privH7">Changes to this Policy</string>
+    <string name="privP7">We may update this policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any material changes to this policy and obtain your consent if required by law.</string>
+    <string name="privH8">Contact Us</string>
+    <string name="privP8">If you have any questions or concerns about our privacy practices or this policy, please contact us at [saileshwankar48@gmail.com].</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="email">Email :</string>
+    <string name="website">Website :</string>
+
+
+    <string name="company_details">SEIRI, is the leading software development technology, consulting, services, and business process outsourcing organization that envisioned and instigated adoption of the flexible business practices that today enable the company\’s client companies to operate more efficiently and produce more value. \n\nThe company is owner partnership of Miss. Shweta and Mr. Dhiraj Thaokar. Our main business perspective belongs to MSETCL (Maharashtra State Electricity Transmission Company Limited). Seiri is legal vendor in MSETCL for Repairing and Maintenance of ABT Meters in every transmission....\n
+The company focuses on new ways of business, thereby combining IT innovations and adoption while leveraging an organization\'s current assets. Seiri team is committed to provide IT Services with Quality, Technology, Innovation and Support.</string>
+    <string name="company_info">Company Details</string>
+    <string name="address">N.M.C Complex, 78-E, First Floor, link road, sadar, Nagpur, Maharastra-440001</string>
+
+
+</resources>
